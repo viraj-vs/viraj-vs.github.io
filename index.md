@@ -8,4 +8,4 @@ author_profile: true
 header:
   image: /assets/images/banner.jpg
 ---
-Welcome to {{ site.title }}!
+#Welcome to {{ site.title }}!
