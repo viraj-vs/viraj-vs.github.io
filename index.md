@@ -6,7 +6,7 @@ title: .
 strip_title: true
 layout: single
 author_profile: true
-# excerpt: Welcome!!
+excerpt: Welcome!!
 header:
   overlay_image: /assets/images/banner.jpg
 ---
