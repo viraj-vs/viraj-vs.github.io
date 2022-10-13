@@ -7,5 +7,5 @@ layout: single
 author_profile: true
 excerpt: Welcome!!
 header:
-  image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner.jpg
 ---
