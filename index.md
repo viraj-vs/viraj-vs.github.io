@@ -10,4 +10,6 @@ author_profile: true
 header:
   og_image: /assets/images/banner.jpg
   overlay_image: /assets/images/banner.jpg
+actions:
+  - label: "Resume"
 ---
