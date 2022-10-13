@@ -6,6 +6,6 @@ title: Viraj's Page
 layout: single
 author_profile: true
 header:
-  image:/assets/images/banner.jpg
+  image: /assets/images/banner.jpg
 ---
 Welcome to {{ site.title }}!
