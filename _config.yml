@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Viraj Singh"
   avatar : "/assets/images/Viraj.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A day dreamer interested in Maths, Machine Learning, political and social issues sych as abortion, gender privilege, gun control, role of government, unitary executive theory and more .."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
