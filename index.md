@@ -5,6 +5,7 @@
 title: Welcome to Viraj's Page !!
 layout: single
 author_profile: true
+excerpt: Welcome!!
 header:
   image: /assets/images/banner.jpg
 ---
