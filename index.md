@@ -18,8 +18,8 @@ actions:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
+			content:{location: {url: "https://github.com/viraj-vs/resume/blob/main/Viraj-Singh-Resume.pdf"}},
+			metaData:{fileName: "Viraj-Singh-Resume.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
