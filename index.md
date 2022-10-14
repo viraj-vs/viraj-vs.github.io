@@ -15,7 +15,7 @@ tags:
   pdf
 ---
 <div id="adobe-dc-view" style="width: 800px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
