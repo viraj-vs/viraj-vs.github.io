@@ -64,7 +64,7 @@ titles_from_headings:
 author:
   name   : "Viraj Singh"
   avatar : "/assets/images/Viraj.png"
-  bio    : "A day dreamer interested in Maths, Machine Learning, political and social issues sych as abortion, gender privilege, gun control, role of government, unitary executive theory and more .."
+  bio    : "A day dreamer interested in Maths, Machine Learning, political and social issues such as abortion, gender privilege, gun control, role of government, unitary executive theory and more .."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
