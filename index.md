@@ -11,6 +11,8 @@ header:
 actions:
   - label: "Resume"
     url: "https://github.com"
+tags:
+  pdf
 ---
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
