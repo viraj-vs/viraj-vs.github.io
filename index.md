@@ -10,4 +10,5 @@ header:
   overlay_image: /assets/images/banner.jpg
 actions:
   - label: "Resume"
+    url: "https://github.com"
 ---
