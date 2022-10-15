@@ -1,4 +1,6 @@
 main:
+  - title: "Floating-Point"
+    url: /floating-point/
   - title: "Resume"
     url: /My Resume/
   - title: "Posts"
