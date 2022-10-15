@@ -15,8 +15,8 @@ tags:
   pdf
 ---
 
-<$>[note]
-**Note:** A sample code using Java double that produces surprising results and the same code using Java float does not
-<$>
+> **Warning**
+> A sample code using Java double that produces surprising results and the same code using Java float does not
+
 
 <script src="https://gist.github.com/viraj-vs/041d25ef3fd2913e8e99f3731d06aca9.js"></script>
