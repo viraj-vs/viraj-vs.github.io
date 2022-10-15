@@ -15,7 +15,7 @@ tags:
   pdf
 ---
 
-> ``` A sample code using Java double produces surprising results. Same code using Java float does not. ```
-
+> A sample code using Java double produces surprising results. Same code using Java float does not.
+``` We see UNEXPECTED Result: 0.1d + 0.2d - 0.3d = 5.551115123125783E-17 ```
 
 <script src="https://gist.github.com/viraj-vs/041d25ef3fd2913e8e99f3731d06aca9.js"></script>
