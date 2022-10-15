@@ -21,7 +21,7 @@ tags:
 	var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://viraj-vs.github.io/docs/computer-science/floating-point/Floating_Point.pdf)"}},
-			metaData:{fileName: "Floating Point.pdf"}
+			metaData:{fileName: "Floating_Point.pdf"}
 	  }, {embedMode: "IN_LINE"});
 	});
 </script>
