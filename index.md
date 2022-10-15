@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: .                                                      
 layout: single
+classes: wide
 author_profile: true
 # excerpt: Welcome!!
 header:
