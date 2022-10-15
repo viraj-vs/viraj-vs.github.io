@@ -14,25 +14,3 @@ actions:
 tags:
   pdf
 ---
-<div id="adobe-dc-view" style="width: 800px;"></div>
-# <div id="adobe-dc-view1" style="width: 800px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view0"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://viraj-vs.github.io/assets/images/Floating Point.pdf"}},
-			metaData:{fileName: "Floating Point.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
-# <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-# <script type="text/javascript">
-# 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-# 		var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
-# 		adobeDCView.previewFile({
-# 			content:{location: {url: "https://viraj-vs.github.io/assets/images/Viraj-Singh-Resume.pdf"}},
-# 			metaData:{fileName: "Viraj-Singh-Resume.pdf"}
-# 		}, {embedMode: "IN_LINE"});
-# 	});
-# </script>
