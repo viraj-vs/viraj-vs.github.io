@@ -5,6 +5,7 @@
 title: .                                                      
 layout: single
 author_profile: true
+permalink: /My Resume/
 header:
   overlay_image: /assets/images/banner.jpg
 actions:
