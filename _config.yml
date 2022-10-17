@@ -65,7 +65,7 @@ titles_from_headings:
 author:
   name   : "Viraj Singh"
   avatar : "/assets/images/Viraj.png"
-  bio.   : "Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast."
+  bio    : "Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
