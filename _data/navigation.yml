@@ -1,6 +1,6 @@
 main:
-  - title: "Float"
-    url: /floating-point/
+  - title: "Home"
+    url: /home/
   - title: "Resume"
     url: /My Resume/
   # - title: "Posts"
