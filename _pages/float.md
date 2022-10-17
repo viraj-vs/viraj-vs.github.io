@@ -14,6 +14,31 @@ actions:
 tags:
   pdf
 ---
+
+> A sample code using Java double produces surprising results.
+<br/>
+
+```UNEXPECTED Result: 0.1d + 0.2d - 0.3d = 5.551115123125783E-17 ```
+
+<script src="https://gist.github.com/viraj-vs/041d25ef3fd2913e8e99f3731d06aca9.js"></script>
+
+> Same code using Java float does not.
+<br/>
+
+```EXPECTED Result: 0.1d + 0.2d - 0.3d = 0 ```
+<script src="https://gist.github.com/viraj-vs/b7816ec8892a12c82aba4535aa90cb5b.js"></script>
+
+
+<br/>
+
+Below is the first of a couple of videos to follow on floating point numbers
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u8WjMyR6Xh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+
 <div id="adobe-dc-view" style="width: 1024px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
