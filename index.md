@@ -41,22 +41,15 @@ Below is the first of a the couple of videos to follow on floating point numbers
 &NewLine;
 &NewLine;
 
-<$>[note]
-**Note:** Below are some real world problems caused by error in approximation when using floating point numbers
-<$>
 
-&NewLine;
-&NewLine;
-
-> **Ariane 5 rocket:** <br />
-> Ariane 5 rocket exploded 40 seconds after being launched by European Space Agency. Maiden voyage after a decade and 7 billion dollars of research and development. The sensor reported acceleration that so was large that it caused an overflow in the part of the program responsible for recalibrating inertial guidance. 64-bit floating point number was converted to a 16-bit signed integer, but the number was larger than 32,767 and the conversion failed. The unanticipated overflow was caught by a general systems diagnostic and dumped debugging data into an area of memory used for guiding the rocket's motors. Control was switched to a backup computer, but this had the same data. This resulted in a drastic attempt to correct the nonexistent problem, which separated the motors from their mountings, leading to the end of Ariane 5.
-
-> **Patriot missile accident:** <br />
-> On February 25, 1991 an American Patriot missile failed to track and destroy an Iraqi Scud missile. Instead it hit an Army barracks, killing 26 people. The cause was later determined to be an inaccurate calculation caused by measuring time in tenth of a second. Couldn't represent 1/10 exactly since used a 24-bit floating point. The software to fix the problem arrived in Dhahran on February 26. Here is more information.
-Intel FDIV Bug Error in Pentium hardwire floating point divide circuit. Discovered by Intel in July 1994, and rediscovered and publicized by math professor in September 1994. Intel recall in December 1994 cost $300 million. Another floating point bug discovered in 1997.
-
-> **Sinking of Sleipner oil rig:** <br />
-> Sleipner A $700 million platform for producing oil and gas sprang a leak and sank in the North Sea in August, 1991. Error in inaccurate finite element approximation underestimate shear stress by 47% Reference.
-
-> **Vancouver stock exchange:** <br />
-> Vancouver stock exchange index was undervalued by over 50% after 22 months of accumulated roundoff error. The obvious algorithm is to add up all the stock prices Instead a "clever" analyst decided it would be more efficient to recompute the index by adding the net change of stock after each trade. This computation was done using four decimal places and truncating (not rounding) the result to three. Reference
+<div id="adobe-dc-view" style="width: 1024px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+	var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://viraj-vs.github.io/assets/images/Viraj-Singh-Resume.pdf"}},
+			metaData:{fileName: "Viraj-Singh-Resume.pdf"}
+	  }, {embedMode: "IN_LINE"});
+	});
+</script>
