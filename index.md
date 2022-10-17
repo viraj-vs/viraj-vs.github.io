@@ -15,7 +15,6 @@ actions:
 tags:
   pdf
 ---
-<div id="adobe-dc-view" style="width: 800px;"></div>
 
 > A sample code using Java double produces surprising results.
 <br/>
