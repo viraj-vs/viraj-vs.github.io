@@ -32,11 +32,15 @@ tags:
 
 <br/>
 
-Below is the first of a couple of videos to follow on floating point numbers
+&NewLine;
+&NewLine;
+
+Below is the first of a the couple of videos to follow on floating point numbers
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u8WjMyR6Xh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+&NewLine;
+&NewLine;
 
 <$>[note]
 **Note:** Below are some real world problems caused by error in approximation when using floating point numbers
