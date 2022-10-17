@@ -16,7 +16,7 @@
 title: Viraj Singh
 email: v@virajsingh.com
 description: >- # this means to ignore newlines until "baseurl:"
-A Senior at Princeton High School. A Maths, Computer Science, Machine Learning and Sociology enthusiast
+Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast.
 #  A day dreamer interested in Maths, Machine Learning, political and social issues such as abortion, gender privilege, gun control, role of government, unitary executive theory and more ...
 twitter_username: username
 github_username: username
@@ -65,7 +65,7 @@ titles_from_headings:
 author:
   name   : "Viraj Singh"
   avatar : "/assets/images/Viraj.png"
-  bio.   : "A Senior at Princeton High School. A Maths, Computer Science, Machine Learning and Sociology enthusiast"
+  bio.   : Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast.
 #  bio    : "A day dreamer interested in Maths, Machine Learning, political and social issues such as abortion, gender privilege, gun control, role of government, unitary executive theory and more .."
   links:
 #    - label: "Website"
