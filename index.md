@@ -32,9 +32,17 @@ tags:
 
 <br />
 
-
+Below is the first of a couple of videos to follow on floating point numbers
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u8WjMyR6Xh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+<$>[note]
+**Note:** Below are some real world problems caused by error in approximation when using floating point numbers
+<$>
+
+<br />
 
 > **Ariane 5 rocket:** <br />
 > Ariane 5 rocket exploded 40 seconds after being launched by European Space Agency. Maiden voyage after a decade and 7 billion dollars of research and development. The sensor reported acceleration that so was large that it caused an overflow in the part of the program responsible for recalibrating inertial guidance. 64-bit floating point number was converted to a 16-bit signed integer, but the number was larger than 32,767 and the conversion failed. The unanticipated overflow was caught by a general systems diagnostic and dumped debugging data into an area of memory used for guiding the rocket's motors. Control was switched to a backup computer, but this had the same data. This resulted in a drastic attempt to correct the nonexistent problem, which separated the motors from their mountings, leading to the end of Ariane 5.
