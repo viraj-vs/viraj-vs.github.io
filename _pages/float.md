@@ -6,6 +6,7 @@ title: .
 layout: single
 author_profile: true
 permalink: /floating-point/
+classes: wide
 header:
   overlay_image: /assets/images/banner.jpg
 actions:
