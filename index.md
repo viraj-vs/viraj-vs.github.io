@@ -30,6 +30,9 @@ tags:
 ```EXPECTED Result: 0.1d + 0.2d - 0.3d = 0 ```
 <script src="https://gist.github.com/viraj-vs/b7816ec8892a12c82aba4535aa90cb5b.js"></script>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-u8WjMyR6Xh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <iframe src="https://youtu.be/u8WjMyR6Xh4" width="560" height="315" frameborder="0"> </iframe>
 
 > **Ariane 5 rocket:** <br />
