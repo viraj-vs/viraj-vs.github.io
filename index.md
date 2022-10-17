@@ -31,7 +31,6 @@ tags:
 
 
 <br/>
-<br/>
 
 Below is the first of a couple of videos to follow on floating point numbers
 
