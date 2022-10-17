@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Viraj Singh
 email: v@virajsingh.com
-description: >- # this means to ignore newlines until "baseurl:"
-Senior at Princeton High School (PHS), Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast.
+# this means to ignore newlines until "baseurl:"
+description: >-# this means to ignore newlines until "baseurl:"
+  Senior at Princeton High School (PHS), Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast.
 #  A day dreamer interested in Maths, Machine Learning, political and social issues such as abortion, gender privilege, gun control, role of government, unitary executive theory and more ...
 twitter_username: username
 github_username: username
@@ -65,8 +66,7 @@ titles_from_headings:
 author:
   name   : "Viraj Singh"
   avatar : "/assets/images/Viraj.png"
-  bio.   : Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast.
-#  bio    : "A day dreamer interested in Maths, Machine Learning, political and social issues such as abortion, gender privilege, gun control, role of government, unitary executive theory and more .."
+  bio.   : "Senior at Princeton High School, Princeton, NJ. A Maths, Computer Science, Machine Learning, Researcher, and Sociology enthusiast."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
