@@ -30,6 +30,10 @@ tags:
 ```EXPECTED Result: 0.1d + 0.2d - 0.3d = 0 ```
 <script src="https://gist.github.com/viraj-vs/b7816ec8892a12c82aba4535aa90cb5b.js"></script>
 
+<video width="480" height="320" controls="controls">
+  <source src="https://youtu.be/u8WjMyR6Xh4" type="video/mp4">
+</video>
+
 > **Ariane 5 rocket:** <br />
 > Ariane 5 rocket exploded 40 seconds after being launched by European Space Agency. Maiden voyage after a decade and 7 billion dollars of research and development. The sensor reported acceleration that so was large that it caused an overflow in the part of the program responsible for recalibrating inertial guidance. 64-bit floating point number was converted to a 16-bit signed integer, but the number was larger than 32,767 and the conversion failed. The unanticipated overflow was caught by a general systems diagnostic and dumped debugging data into an area of memory used for guiding the rocket's motors. Control was switched to a backup computer, but this had the same data. This resulted in a drastic attempt to correct the nonexistent problem, which separated the motors from their mountings, leading to the end of Ariane 5.
 
