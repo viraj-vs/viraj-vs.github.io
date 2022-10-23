@@ -16,3 +16,6 @@ tags:
   pdf
 ---
 
+In this notebook, I introduce Neural Networks by training a small neural network to classify images.
+
+[https://colab.research.google.com/drive/1IzJE67tasrL2ooClknQXO2r_MOP2RvpR?usp=sharing#scrollTo=hebh1rlKczw8](https://colab.research.google.com/drive/1IzJE67tasrL2ooClknQXO2r_MOP2RvpR?usp=sharing#scrollTo=hebh1rlKczw8)
