@@ -5,6 +5,8 @@ main:
     url: /recursion/
   - title: "Research"
     url: /research/
+  - title: "Neural Network"
+    url: /neural-network/
   - title: "Resume"
     url: /My Resume/
   # - title: "Posts"
