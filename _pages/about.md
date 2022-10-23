@@ -18,3 +18,6 @@ AI Lessons: [https://mlphs.github.io/#portfolio](https://mlphs.github.io/#portfo
 
 <br />
 AI & ML Club Team: [https://mlphs.github.io/#team](https://mlphs.github.io/#team)
+
+<br />
+Train Neural Network :[https://colab.research.google.com/drive/1IzJE67tasrL2ooClknQXO2r_MOP2RvpR?usp=sharing#scrollTo=hebh1rlKczw8](https://colab.research.google.com/drive/1IzJE67tasrL2ooClknQXO2r_MOP2RvpR?usp=sharing#scrollTo=hebh1rlKczw8)
