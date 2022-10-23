@@ -20,7 +20,7 @@ tags:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 	var adobeDCView = new AdobeDC.View({clientId: "665fe064bf6f425bb15ccc4da4bf9faf", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://viraj-vs.github.io/docs/research/Research.pdf"}},
+			content:{location: {url: "https://viraj-vs.github.io/docs/computer-science/research/Research.pdf"}},
 			metaData:{fileName: "Research.pdf"}
 	  }, {embedMode: "IN_LINE"});
 	});
