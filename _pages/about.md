@@ -14,4 +14,7 @@ AI education is not accessible at the high school level. To fill this gap Maya, 
 AI and ML Club at Princeton High School: [https://mlphs.github.io/](https://mlphs.github.io/)
 
 <br />
+AI Lessons: [https://mlphs.github.io/#portfolio](https://mlphs.github.io/#portfolio)
+
+<br />
 AI & ML Club Team: [https://mlphs.github.io/#team](https://mlphs.github.io/#team)
