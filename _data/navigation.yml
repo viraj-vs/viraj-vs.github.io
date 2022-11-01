@@ -7,8 +7,8 @@ main:
     url: /research/
   - title: "Neural Network"
     url: /neural-network/
-  - title: "Resume"
-    url: /resume/
+  #- title: "Resume"
+  # url: /resume/
   # - title: "Posts"
   #  url: /posts/
   # - title: "Categories"
