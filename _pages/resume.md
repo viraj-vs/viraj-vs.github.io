@@ -9,7 +9,7 @@ permalink: /resume/
 header:
   overlay_image: /assets/images/banner.jpg
 actions:
-  - label: "Resume"
+  - label: "Resume1"
     url: "https://github.com"
 tags:
   pdf
